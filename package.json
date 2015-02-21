@@ -1,0 +1,39 @@
+{
+  "name": "tabninja",
+  "version": "0.0.1",
+  "description": "TabNinja - JavaScript HTML5 Master/Slave Browser Tabs Helper",
+  "main": "public/lib/tabninja.js",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "mocha-phantomjs": "^3.5.3",
+    "phantomjs": "^1.9.13"
+  },
+  "scripts": {
+    "pretest": "npm install",
+    "test": "mocha-phantomjs test/mocha.test.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/studentIvan/tabninja.git"
+  },
+  "keywords": [
+    "tabninjajs",
+    "tabninja",
+    "dueljs",
+    "duel",
+    "master",
+    "slave",
+    "window",
+    "javascript",
+    "onfocus",
+    "broadcasting",
+    "document.hidden"
+  ],
+  "author": "Maslov Ivan <mail@studentivan.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studentIvan/tabninja/issues"
+  },
+  "homepage": "https://github.com/studentIvan/tabninja"
+}

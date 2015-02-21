@@ -1,0 +1,33 @@
+{
+  "name": "tabninja",
+  "version": "0.0.1",
+  "homepage": "https://github.com/studentIvan/tabninja",
+  "dependencies": {
+    "duel": "^1.2.0"
+  },
+  "authors": [
+    "Maslov Ivan <mail@studentivan.ru>"
+  ],
+  "description": "JavaScript HTML5 Master/Slave Browser Tabs Helper",
+  "main": "public/lib/tabninja.js",
+  "keywords": [
+    "tabninjajs",
+    "tabninja",
+    "dueljs",
+    "duel",
+    "master",
+    "slave",
+    "window",
+    "javascript",
+    "onfocus",
+    "broadcasting",
+    "document.hidden"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "docs",
+    "test"
+  ]
+}
